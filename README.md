@@ -73,7 +73,7 @@ AWS IAM Role Analyzer is a security auditing tool that scans IAM roles and permi
 Contributions are welcome! Feel free to submit a pull request or open an issue.
 
 
-## 🌟 Stay Updated
+## Stay Updated & to be continued
 
 Follow this repository for future updates and improvements!
 
