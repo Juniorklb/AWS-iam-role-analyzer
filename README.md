@@ -25,7 +25,7 @@ AWS IAM Role Analyzer is a security auditing tool that scans IAM roles and permi
     │── requirements.txt        # Python dependencies
     │── .gitignore              # Git ignore file
 
-## 🚀 Getting Started   
+## Getting Started   
 **Prerequisites**
 - **Python 3.7+**
 
@@ -50,7 +50,7 @@ AWS IAM Role Analyzer is a security auditing tool that scans IAM roles and permi
 
     pip install -r requirements.txt
 
-## 🔍 How to Use
+##  How to Use
 
 **1. Run the IAM role analysis script: in Powershell**
 
@@ -58,7 +58,7 @@ AWS IAM Role Analyzer is a security auditing tool that scans IAM roles and permi
 
 **2. View detected security risks and recommendations in the output.**  
 
-## ✅ To-Do List
+##  To-Do List
 
 
 **1.  Implement policy validation logic**
